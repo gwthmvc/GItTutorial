@@ -29,7 +29,7 @@ Welcome! If you've ever felt stuck trying to connect a local Git repository to a
 
 Before syncing code, you need to check if your local project knows where the remote repository lives.
 
-* Open your integrated terminal in VS Code: Press **Control + \``** (backtick) or go to **Terminal > New Terminal**.
+* Open your integrated terminal in VS Code: Press **Control + \`** (backtick) or go to **Terminal > New Terminal**.
 * Run the verification command:
   ```bash
   git remote -v
